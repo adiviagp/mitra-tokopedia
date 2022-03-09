@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Pulsa",
+    "icon": "/produkDigital/uangElektronik.png"
+  },
+  {
+    "title": "Paket Data",
+    "icon": "/produkDigital/paketData.png"
+  },
+  {
+    "title": "PLN",
+    "icon": "/produkDigital/pln.png"
+  },
+  {
+    "title": "Biaya Pendidikan",
+    "icon": "/produkDigital/biayaPendidikan.png"
+  },
+  {
+    "title": "Dompet Digital",
+    "icon": "/produkDigital/dompetDigital.png"
+  },
+  {
+    "title": "Uang Elektronik",
+    "icon": "/produkDigital/uangElektronik.png"
+  },
+  {
+    "title": "Pasca Bayar",
+    "icon": "/produkDigital/pascabayar.png"
+  },
+  {
+    "title": "BPJS",
+    "icon": "/produkDigital/bpjs.png"
+  },
+  {
+    "title": "Angsuran Kredit",
+    "icon": "/produkDigital/angsuran.png"
+  },
+  {
+    "title": "TV Kabel",
+    "icon": "/produkDigital/tvKabel.png"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Grosir Warung",
+    "icon": "/grosirBisnis/grosirWarung.png"
+  },
+  {
+    "title": "Otomotif",
+    "icon": "/grosirBisnis/otomotif.png"
+  },
+  {
+    "title": "Pertukangan",
+    "icon": "/grosirBisnis/pertukangan.png"
+  },
+  {
+    "title": "Ibu & Bayi",
+    "icon": "/grosirBisnis/ibuBayi.png"
+  },
+  {
+    "title": "Handphone & Tablet",
+    "icon": "/grosirBisnis/tablet.png"
+  },
+  {
+    "title": "Makanan",
+    "icon": "/grosirBisnis/makanan.png"
+  },
+  {
+    "title": "Elektronik",
+    "icon": "/grosirBisnis/elektronik.png"
+  },
+  {
+    "title": "Olahraga",
+    "icon": "/grosirBisnis/olahraga.png"
+  },
+  {
+    "title": "Dapur",
+    "icon": "/grosirBisnis/dapur.png"
+  },
+  {
+    "title": "Rumah Tangga",
+    "icon": "/grosirBisnis/rumahTangga.png"
+  }
+]
